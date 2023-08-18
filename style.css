@@ -177,7 +177,7 @@ section .title::after{
     
     .home{
         background-position: -70rem ;
-        background-color: black;
+         background: url("myimg.jpeg") no-repeat ;
     }
 }
 /* @media screen and ( max-width:690px ) {
